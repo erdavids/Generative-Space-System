@@ -12,5 +12,6 @@ Everything is extremely simple right now, but I would like to add a few improvem
 
 For a tutorial on the basic process, check out [this video](https://www.youtube.com/watch?v=XSgerkCVbFc).
 
-![](https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-1502h.png)
 ![](https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-1501h.png)
+![](https://github.com/erdavids/Generative-Space-System/blob/master/Examples/Generative-Space-Texture-3000w-1502h.png)
+
