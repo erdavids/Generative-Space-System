@@ -2,9 +2,7 @@
 
 A few different choices for customization that result in neat looking, poster-ready images.
 
-Everything is extremely simple right now, but I would like to add a few things in the future.
-
-Possible improvements:
+Everything is extremely simple right now, but I would like to add a few improvements in the future:
 
   * Planets of different shapes 
   * Orbiting moons
